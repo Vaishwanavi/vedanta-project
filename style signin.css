@@ -1,14 +1,161 @@
-*{
+body{
+
+height: 750px;
     margin: 0;
-    padding: 0;
+    padding:0;
     box-sizing: border-box;
+    background-color:black;
     
 }
+.header{
+    height: 10vh;
+    width:100vw;
+    display: flex;
+    justify-content: flex-start;
+    color: white;
+    margin-top: 3vh;
+    z-index: 1;
+    position: sticky;
+    top: 0px;
+    flex-wrap: wrap;
+}
+.fh{
+    height: 10hv;
+    width: 50vw;
+    display: flex;
+    justify-content: flex-start;
+}
+.logo{
+    height: 9vh;
+    width: 8vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .name{
+    color: #fff;
     height: 9vh;
     width: 42vw;
     display: flex;
     justify-content: flex-start;
     align-items: center;
+    font-weight: 450;
+
+}
+
+.sh{
+    color: #fff;
+    font-size: 45px;
+    font-weight: 650;
+    margin-bottom: 40%;
+    text-align: center;
+    padding-left: 30%;
+    
+
+
+}
+.body1{
+    margin: 10%;
+    width: 50%;
+    padding: 8%;
+    line-height: 1.8;
+    margin-bottom: 70%;
+    margin-top:-50%;
+}
+.ft{
+    color: #fff;
+    font-size:40px ;
+    font-weight: 400;
+    margin-top: 10%;
+    text-align: left;
+    margin: 10 40 80 10;
+
+}
+.b0dy2{
+    margin: 10%;
+    width:50%;
+    padding: 8%;
+    font-size: 20px;
+    font-weight: 300;
+    margin-top: -50%;
+}
+.fr{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 70;
+    text-align: left;
+    margin-top: -80%;
+    margin-left: 20%;
+}
+.body3{
+
+    font-size: 15px;
+    font-weight: 100;
+}
+.fs{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 200;
+    text-align: left;
+    margin-left: 18%;
+    margin-top: 4%;
+
+}
+
+.social-links a{
+    display:inline-block;
+    height: 40px;
+    width: 40px;
+    background-color:lightskyblue;
+    margin: 0 10px 10px 0;
+    text-align: left;
+    line-height: 40px;
+    border-radius: 50%;
+    transition: all 0.5s ease;
+    margin: 3%;
+    
+    margin-left:7%;
+}
+.social-links a:hover{
+    color: #24262b;
+    background-color: palevioletred;
+}
+.form{
+    text-align: center;
+    margin-left:3%;
+    margin-top: -30%;
+    font-weight: bolder;
+    text-align:center ;
+    ;
+}
+.form-outline mb-4{
+    text-align: center;
+    color: #fff;
+    margin-left:40% ;
+    
+}
+.form-label{
+    font-size: 30px;
+    font-weight: 300;
+    color:#fff;
+    margin-left: 50%;
+}
+.form-check-label{
+    
+}
+   . content_button{
+    padding: 1%;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    background-color: rgb(211,4,152);
+   } 
+
+
+
+
+}
+    
 
 }
