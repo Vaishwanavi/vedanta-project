@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="wdith=device-width initial-scales=1.0">
      <link rel="stylesheet" a href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-     <link rel="stylesheet" a href="style signin.css">
+     <link rel="stylesheet" a href="signin style">
     </head>
     <body>
         <div class="header">

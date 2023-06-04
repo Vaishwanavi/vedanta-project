@@ -185,10 +185,7 @@ height: 750px;
     text-decoration-color: #fff;
     margin-right: 15%;
    }
-   .fa fa-user icon{
-    margin-right: 20%;
-    margin-left: 60%;
-   }
+
    
    
 
