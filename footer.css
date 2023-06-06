@@ -1,8 +1,15 @@
 
-  @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;1,100;1,200;1,300&display=swap');
+
+
+
+
+
 body{
     line-height: 2.5 px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
 }
 *{
     margin: 0;
@@ -110,7 +117,10 @@ width: 50px;
     color: #ffffff;
     display: flex;
     font-weight:20px ;
-    justify-content:flex-start;
+align-items: flex-end;
+width:100%;
+bottom:5%;
+
 }
 
 
