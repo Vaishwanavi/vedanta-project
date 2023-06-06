@@ -40,16 +40,20 @@ ul{
     font-weight: 500;
     position: relative;
     border-radius: 20px;
+    font-weight: 200;
+
+
     
     
 }
 .content_button{
     padding: 1%;
-    border-radius: 8px;
-    font-size: 30px;
-    font-weight: 200;
+    border-radius: 7px;
+    font-size: 20px;
+    font-weight: 600;
     color: #ffffff;
     background-color: rgb(211,4,152);
+    width:100px;
 }
 .footer-col h4::before{
     content: '';
@@ -106,6 +110,7 @@ width: 50px;
     color: #ffffff;
     display: flex;
     font-weight:20px ;
+    justify-content:flex-start;
 }
 
 
